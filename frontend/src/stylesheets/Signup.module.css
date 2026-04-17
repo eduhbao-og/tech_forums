@@ -1,0 +1,107 @@
+#content {
+  width: 100%;
+  text-align: center;
+  color: #cdd6f4;
+}
+
+#content h1 {
+  margin-bottom: 20px;
+}
+
+#content form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#login {
+  font-size: 14px;
+  color: #89b4fa;
+  text-decoration: none;
+}
+
+#login:hover {
+  text-decoration: underline;
+}
+
+#logo {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#logo a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #89b4fa;
+}
+
+#logo img {
+  width: 50px;
+  max-width: 100%;
+  margin-right: 16px;
+}
+
+#logo h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+#username,
+#password,
+#email,
+#phone,
+#developer {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-bottom: 15px;
+}
+
+#username label,
+#password label,
+#email label,
+#phone label,
+#developer label {
+  color: #bac2de;
+}
+
+#username input,
+#password input,
+#email input,
+#phone input,
+#developer input {
+  background-color: #181825;
+  color: #a6adc8;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+}
+
+#username input:focus,
+#password input:focus,
+#email input:focus,
+#phone input:focus,
+#developer input:focus {
+  outline: none;
+}
+
+#signup {
+  padding: 12px 24px;
+  margin-top: 16px;
+  font-size: 16px;
+  color: #1e1e2e;
+  background-color: #89b4fa;
+  border: none;
+  border-radius: 24px;
+  text-decoration: none;
+  cursor: pointer;
+}

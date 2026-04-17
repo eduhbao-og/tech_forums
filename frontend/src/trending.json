@@ -1,0 +1,14 @@
+{"Forums": [
+    {
+        "Title": "Rust",
+        "Description": "A language empowering everyone to build reliable and efficient software.",
+        "Discussions": "29",
+        "Route": "/rust-lang"
+    },
+    {
+        "Title": "Swift",
+        "Description": "Swift is a general-purpose programming language that’s approachable for newcomers and powerful for experts.",
+        "Discussions": "23",
+        "Route": "/swift-lang"
+    }
+]}

@@ -1,0 +1,23 @@
+{"Discussions": [
+    {
+        "Title": "Compro bolas de matrecos",
+        "Author": "Eduard",
+        "Description": "ofereço 50 centimos por bola",
+        "Comments": "3",
+        "Route": "/discussion/QWERTY"
+    },
+    {
+        "Title": "Quantas coca-colas devia beber por dia?",
+        "Author": "Gonçalo Olivia",
+        "Description": "É que eu começo a achar que 39 são muitas",
+        "Comments": "5",
+        "Route": "/discussion/ASDFGH"
+    },
+    {
+        "Title": "Quão grande é demasiado grande?",
+        "Author": "Gonçalo Vicente",
+        "Description": "50 cm é muito",
+        "Comments": "500",
+        "Route": "/discussion/ZXCVBN"
+    }
+]}
